@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+logs/
+cached_policy_gen_data/quadruped_run
+cached_policy_gen_data/quadruped_run100k
+cached_policy_gen_data/quadruped_runtrajectory/trajectories

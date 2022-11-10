@@ -1,0 +1,97 @@
+Trajectory index: 100000 | Model index: 100000 | Average loss: 21.65
+
+Trajectory index: 100000 | Model index: 400000 | Average loss: 28.04
+
+Trajectory index: 100000 | Model index: 700000 | Average loss: 29.46
+
+Trajectory index: 100000 | Model index: 1000000 | Average loss: 30.89
+
+Trajectory index: 100000 | Model index: 1300000 | Average loss: 30.64
+
+Trajectory index: 100000 | Model index: 1600000 | Average loss: 31.32
+
+Trajectory index: 100000 | Model index: 1900000 | Average loss: 31.39
+
+Trajectory index: 400000 | Model index: 100000 | Average loss: 27.37
+
+Trajectory index: 400000 | Model index: 400000 | Average loss: 20.60
+
+Trajectory index: 400000 | Model index: 700000 | Average loss: 32.57
+
+Trajectory index: 400000 | Model index: 1000000 | Average loss: 34.02
+
+Trajectory index: 400000 | Model index: 1300000 | Average loss: 33.16
+
+Trajectory index: 400000 | Model index: 1600000 | Average loss: 33.87
+
+Trajectory index: 400000 | Model index: 1900000 | Average loss: 33.44
+
+Trajectory index: 700000 | Model index: 100000 | Average loss: 38.89
+
+Trajectory index: 700000 | Model index: 400000 | Average loss: 37.24
+
+Trajectory index: 700000 | Model index: 700000 | Average loss: 15.15
+
+Trajectory index: 700000 | Model index: 1000000 | Average loss: 31.16
+
+Trajectory index: 700000 | Model index: 1300000 | Average loss: 37.48
+
+Trajectory index: 700000 | Model index: 1600000 | Average loss: 49.30
+
+Trajectory index: 700000 | Model index: 1900000 | Average loss: 36.80
+
+Trajectory index: 1000000 | Model index: 100000 | Average loss: 48.92
+
+Trajectory index: 1000000 | Model index: 400000 | Average loss: 59.01
+
+Trajectory index: 1000000 | Model index: 700000 | Average loss: 45.36
+
+Trajectory index: 1000000 | Model index: 1000000 | Average loss: 14.86
+
+Trajectory index: 1000000 | Model index: 1300000 | Average loss: 22.50
+
+Trajectory index: 1000000 | Model index: 1600000 | Average loss: 38.45
+
+Trajectory index: 1000000 | Model index: 1900000 | Average loss: 31.85
+
+Trajectory index: 1300000 | Model index: 100000 | Average loss: 58.21
+
+Trajectory index: 1300000 | Model index: 400000 | Average loss: 98.64
+
+Trajectory index: 1300000 | Model index: 700000 | Average loss: 59.35
+
+Trajectory index: 1300000 | Model index: 1000000 | Average loss: 36.66
+
+Trajectory index: 1300000 | Model index: 1300000 | Average loss: 14.68
+
+Trajectory index: 1300000 | Model index: 1600000 | Average loss: 43.47
+
+Trajectory index: 1300000 | Model index: 1900000 | Average loss: 31.61
+
+Trajectory index: 1600000 | Model index: 100000 | Average loss: 65.60
+
+Trajectory index: 1600000 | Model index: 400000 | Average loss: 155.39
+
+Trajectory index: 1600000 | Model index: 700000 | Average loss: 66.85
+
+Trajectory index: 1600000 | Model index: 1000000 | Average loss: 61.14
+
+Trajectory index: 1600000 | Model index: 1300000 | Average loss: 29.09
+
+Trajectory index: 1600000 | Model index: 1600000 | Average loss: 14.38
+
+Trajectory index: 1600000 | Model index: 1900000 | Average loss: 21.67
+
+Trajectory index: 1900000 | Model index: 100000 | Average loss: 63.17
+
+Trajectory index: 1900000 | Model index: 400000 | Average loss: 157.24
+
+Trajectory index: 1900000 | Model index: 700000 | Average loss: 66.51
+
+Trajectory index: 1900000 | Model index: 1000000 | Average loss: 67.19
+
+Trajectory index: 1900000 | Model index: 1300000 | Average loss: 40.71
+
+Trajectory index: 1900000 | Model index: 1600000 | Average loss: 23.77
+
+Trajectory index: 1900000 | Model index: 1900000 | Average loss: 14.06

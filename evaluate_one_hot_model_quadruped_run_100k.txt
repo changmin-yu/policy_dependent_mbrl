@@ -1,0 +1,7 @@
+Trajectory index: 100000 | Model index: unified_model | Average loss: 24.03
+Trajectory index: 400000 | Model index: unified_model | Average loss: 26.57
+Trajectory index: 700000 | Model index: unified_model | Average loss: 17.22
+Trajectory index: 1000000 | Model index: unified_model | Average loss: 16.09
+Trajectory index: 1300000 | Model index: unified_model | Average loss: 16.61
+Trajectory index: 1600000 | Model index: unified_model | Average loss: 16.37
+Trajectory index: 1900000 | Model index: unified_model | Average loss: 15.27
